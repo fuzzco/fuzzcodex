@@ -2,6 +2,8 @@
 
 _The Fuzzco Code Codex_
 
+## NPM Packages
+
 `npm install @fuzzco/library-listed-below` to use...
 
 | Name                                                            | About                                                 | Vanilla JS | Vue |
