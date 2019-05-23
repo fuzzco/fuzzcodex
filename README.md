@@ -21,10 +21,3 @@ _The Fuzzco Code Codex_
 
 -   🖖 [component-base](https://github.com/fuzzco/component-base), a scaffold for a custom Vue component with GH Pages support and a smooth dev experience out of the box
 -   💻 [module-base](https://github.com/fuzzco/module-base) (_in progress_), a scaffold for a standalone JavaScript module.
-
-<style>
-td:nth-child(3),
-td:nth-child(4){
-    text-align: center;
-}
-</style>
