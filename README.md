@@ -20,5 +20,6 @@ _The Fuzzco Code Codex_
 
 `degit fuzzco/library-listed-below your-new-file-name` to scaffold...
 
--   🖖 [component-base](https://github.com/fuzzco/component-base), a scaffold for a custom Vue component with GH Pages support and a smooth dev experience out of the box
--   💻 [module-base](https://github.com/fuzzco/module-base) (_in progress_), a scaffold for a standalone JavaScript module.
+-   🖖 [component-base](https://github.com/fuzzco/component-base), a custom Vue component with GH Pages support and a smooth dev experience out of the box
+-   🇳 [fuzznuxt](https://github.com/fuzzco/fuzznuxt), a custom Nuxt scaffold with several presets and convenience functions included.
+-   💻 [module-base](https://github.com/fuzzco/module-base) (_in progress_), a standalone JavaScript module.
