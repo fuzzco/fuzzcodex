@@ -9,6 +9,7 @@ _The Fuzzco Code Codex_
 | Name                                                            | About                                                 | Vanilla JS | Vue |
 | --------------------------------------------------------------- | ----------------------------------------------------- | ---------- | --- |
 | ↕️ [cute-parallax](https://github.com/fuzzco/cute-parallax)     | (_in progress_) A cute lil' parallax library          | ✅         |     |
+| ↕️ [flex-height](https://github.com/fuzzco/flex-height)         | Smooth transition for components with varying heights |            | ✅  |
 | 🔠 [font-loader](https://github.com/fuzzco/font-loader)         | A quick and easy font loader                          | ✅         |     |
 | 🎨 [fragment-shader](https://github.com/fuzzco/fragment-shader) | A quick way to drop in a very performant WebGL shader |            | ✅  |
 | 👓 [in-view](https://github.com/fuzzco/in-view)                 | Mixin for smooth enter/leave viewport handling        |            | ✅  |
