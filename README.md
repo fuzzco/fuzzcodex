@@ -12,6 +12,7 @@ _The Fuzzco Code Codex_
 | ↕️ [flex-height](https://github.com/fuzzco/flex-height)         | Smooth transition for components with varying heights |            | ✅  |
 | 🔠 [font-loader](https://github.com/fuzzco/font-loader)         | A quick and easy font loader                          | ✅         |     |
 | 🎨 [fragment-shader](https://github.com/fuzzco/fragment-shader) | A quick way to drop in a very performant WebGL shader |            | ✅  |
+| 🎨 [full-canvas](https://github.com/fuzzco/full-canvas)         | Auto-resizing canvas                                  |            | ✅  |
 | 👓 [in-view](https://github.com/fuzzco/in-view)                 | Mixin for smooth enter/leave viewport handling        |            | ✅  |
 | 🎬 [scrub-wrap](https://github.com/fuzzco/scrub-wrap)           | Get scroll progress of wrapped contents               |            | ✅  |
 | 🖼️ [super-image](https://github.com/fuzzco/super-image)         | (_in progress_) All-in-one Vue image wrapper          |            | ✅  |
