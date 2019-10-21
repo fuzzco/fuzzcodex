@@ -16,6 +16,7 @@ _The Fuzzco Code Codex_
 | 🎬 [scrub-wrap](https://github.com/fuzzco/scrub-wrap)           | Get scroll progress of wrapped contents               |            | ✅  |
 | 🖼️ [super-image](https://github.com/fuzzco/super-image)         | All-in-one Vue image wrapper                          |            | ✅  |
 | ↔️ [vue-marquee](https://github.com/fuzzco/vue-marquee)         | Bare-bones marquee                                    |            | ✅  |
+| 📖 [smart-columns](https://github.com/safrmo/smart-columns)     | Content that flows in columns                         | ✅         |     |
 
 ## Scaffolding Tools
 
